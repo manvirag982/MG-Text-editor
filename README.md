@@ -1,4 +1,12 @@
 # MG-Text-editor
 text editor with python 3
-// for run download file as it as and open MG text editor file in vscode or other ide ,, you can convert into setup of windows and linux
-or if you have windows operating system here is setup .msi just download and run as normal setup
+/*
+     using command down with following code
+     
+     pip3 install speechrecognition
+     pip install pipwin
+     pipwin install pyaudio
+*/
+1. download as zip 
+2. extract it
+3. open mg_text_editor.py
