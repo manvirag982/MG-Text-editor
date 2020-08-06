@@ -3,6 +3,7 @@ text editor with python 3
 /*
      using command down with following code
      
+     pip install tk
      pip3 install speechrecognition
      pip install pipwin
      pipwin install pyaudio
